@@ -1,0 +1,7 @@
+ipxe.git/
+ipxe/
+*.usb
+*.hd
+*.dsk
+*.pdsk
+*.iso
